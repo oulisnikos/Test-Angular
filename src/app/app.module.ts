@@ -11,7 +11,6 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { MatFormField, MatFormFieldModule } from '@angular/material/form-field';
 import { DialogBoxComponent } from './dialog-box/dialog-box.component';
 import { MatInputModule } from '@angular/material/input';
-import { NgxMaterialTimepickerComponent } from 'ngx-material-timepicker';
 @NgModule({
   declarations: [
     AppComponent,
